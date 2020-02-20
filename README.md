@@ -30,6 +30,20 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.
 
 **3.** 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1: FAIL
 
+**4.** 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998: OK
+
+**5.** 18252235-78e0-44a5-8720-556f0c7da17a: FAIL
+
+**6.** e66075b6-ddad-445e-baf6-161b3289522b: FAIL
+
+**7.** b6d53250-f07e-4352-a293-6102ddf7f1ca: FAIL
+
+**8.** c2bc778a-1cb9-46c6-b435-0489649d2a42: FAIL
+
+**9.** c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180: OK
+
+**10.** b295bc63-9f03-3b4b-af80-969b39f8c262: OK
+
 ### Тестирование производилось в следующем окружении: ###
 * Версия ОС: Windows 10 x64
 * Версия Java: openjdk version "11.0.6" 2020-01-14
